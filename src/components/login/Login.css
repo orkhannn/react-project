@@ -1,0 +1,25 @@
+.login {
+    background-color: #C2C8FE;
+    color: #333333;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrapper {
+    background-color: white;
+    border-radius: 8px;
+    position: relative;
+    padding: 50px;
+}
+
+.to-signup {
+    cursor: pointer;
+    padding: 5px 10px;
+    border: 2px solid #A7AAC6;
+    border-radius: 4px;
+    width:fit-content;
+    margin-bottom: 10px;
+}

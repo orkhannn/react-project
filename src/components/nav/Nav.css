@@ -1,0 +1,18 @@
+.nav-container {
+    padding: 20px 100px;
+}
+
+.nav {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.logout-btn {
+    padding: 20px 50px;
+    border: none;
+    outline: none;
+    background-color: #C2C8FE;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+}
