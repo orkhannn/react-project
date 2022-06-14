@@ -19,7 +19,8 @@ export function AuthProvider({children}){
         booked: false,
     })
 
-    const isRegistered = () => {
+    const isRegistered = () =>
+     {
         return !(user === null);
     }
 
