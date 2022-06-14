@@ -1,6 +1,8 @@
 import { createContext, useState } from "react";
 import barbersList from './data'
 
+
+
 const AuthContext = createContext();
 
 export function AuthProvider({children}){
